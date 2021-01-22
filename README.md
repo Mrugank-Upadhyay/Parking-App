@@ -34,5 +34,3 @@ The Following is, or will be used for this app:
     - Cloud Functions
 - GraphQL
 - Object Oriented Approach
-
-This app has been in development since June 2020. Issues with previous repo required me to transfer to a new one.
